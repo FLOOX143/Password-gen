@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+=======
+>>>>>>> 19676a8 (db hotfix, pass gen rabased)
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (Practice)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Practice)" project-jdk-type="Python SDK" />
+<<<<<<< HEAD
+=======
+>>>>>>> 1ef625b704fae026207fc95af39f7313bb5780dc
+>>>>>>> 19676a8 (db hotfix, pass gen rabased)
+</project>
